@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T13:52:56.162Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="pikFB2h-lNX91KK33iak" version="14.4.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-03-10T05:49:59.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="leg5lMkqXVA6lZQNV9Y3" version="14.4.5" type="github" pages="10">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -810,6 +810,113 @@
             <mxPoint x="90" y="309.5" as="sourcePoint" />
             <mxPoint x="170" y="309.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rUZfzUy9hD4AlOWDp97e" name="Page-10">
+    <mxGraphModel dx="1250" dy="1980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-0" />
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-1" parent="0yRPRZTHU6R5RJfw7FxM-0" />
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="530" y="350" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;File System&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="550" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Audio&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="670" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Message Loop&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="790" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Thread&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="790" y="450" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;GPS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="550" y="450" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Network&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="670" y="450" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Device Adapter Layer&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="645" y="360" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3rd-party:&lt;br&gt;zlib&lt;br&gt;libpng&lt;br&gt;sqlite3&lt;br&gt;jasson&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="930" y="350" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="530" y="220" width="520" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;File&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="555" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Sound Arbiter&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="675" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Http&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="795" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Application Life Cycle&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="921" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-19" value="&lt;font style=&quot;font-size: 14px&quot;&gt;DAL Wrapper&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="715" y="230" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="530" y="-90" width="520" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-21" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Map Matching&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="550" y="80" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-22" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Routing&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="550" y="20" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-23" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Tmc Reporter&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="670" y="80" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-24" value="MJO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="790" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-25" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Maneuver Builder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="550" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-26" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Highway Guide&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="670" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-27" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Engine Modules&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="715" y="-70" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-28" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Speed Limit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="670" y="20" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-29" value="&lt;font style=&quot;font-size: 14px&quot;&gt;NaviSpeaker&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="670" y="-40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-30" value="&lt;font style=&quot;font-size: 14px&quot;&gt;NaviSession&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="550" y="-40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-31" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Map Renderer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="789" y="-40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Overlay&lt;br&gt;Annotation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="789" y="20" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-33" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Junction View&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="789" y="80" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-34" value="&lt;font style=&quot;font-size: 14px&quot;&gt;POI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="909" y="-40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-35" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Reverse&lt;br&gt;Geocoder&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="909" y="20" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-36" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Admin&lt;br&gt;Manager&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="909" y="80" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0yRPRZTHU6R5RJfw7FxM-37" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Navi Data Manager&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0yRPRZTHU6R5RJfw7FxM-1">
+          <mxGeometry x="910" y="140" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
